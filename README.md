@@ -1,1 +1,2 @@
-# BeSafe
+# NB THIS PROJECT HAS SINCE BEEN RENAMED TO "SafeWay" AS OF 25 AUG 2023 AND CAN BE FOUND HERE:
+https://github.com/ryanlacey20/SafeWay
